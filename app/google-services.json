@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039314241254",
+    "project_id": "finale-fa370",
+    "storage_bucket": "finale-fa370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039314241254:android:8d7a37d13633708b5c5d27",
+        "android_client_info": {
+          "package_name": "com.example.finalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039314241254-bl7b3hplo1foh698imk3dvbalg178ls7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJt29qHQt9lYNJUbFSzt-nNl4WZpY410"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039314241254-bl7b3hplo1foh698imk3dvbalg178ls7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
